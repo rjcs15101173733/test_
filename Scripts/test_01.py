@@ -5,5 +5,6 @@ class Test01():
 
     def setup_class(self):
 
-    def
+    def settyf(self):
+
 
